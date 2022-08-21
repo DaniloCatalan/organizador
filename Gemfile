@@ -25,10 +25,11 @@ gem 'jbuilder', '~> 2.7'
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
 gem 'annotate'
+gem 'devise'
 gem 'hamlit'
-gem 'simple_form'
-gem 'rails-i18n'
 gem 'i18n-tasks', '~> 1.0.11'
+gem 'rails-i18n'
+gem 'simple_form'
 
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.4.4', require: false
