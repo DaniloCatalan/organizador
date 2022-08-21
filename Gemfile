@@ -27,6 +27,8 @@ gem 'jbuilder', '~> 2.7'
 gem 'annotate'
 gem 'hamlit'
 gem 'simple_form'
+gem 'rails-i18n'
+gem 'i18n-tasks', '~> 1.0.11'
 
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.4.4', require: false
