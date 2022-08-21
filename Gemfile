@@ -25,6 +25,8 @@ gem 'jbuilder', '~> 2.7'
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
 gem 'annotate'
+gem 'cancancan'
+gem 'cocoon'
 gem 'devise'
 gem 'hamlit'
 gem 'i18n-tasks', '~> 1.0.11'
