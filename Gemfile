@@ -53,6 +53,7 @@ group :development do
   gem 'pry'
   gem 'pry-doc'
   gem 'spring'
+  gem 'letter_opener'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
